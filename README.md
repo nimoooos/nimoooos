@@ -1,5 +1,6 @@
 # Hello, I'm Soomin (she/her)!
 ###### (I also go by Suji)
+[Inbox](https://github.com/nimoooos/nimoooos/discussions)
 
 ## Things I've done:
 * [COMP/CON](https://github.com/massif-press/compcon/)
