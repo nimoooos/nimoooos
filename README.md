@@ -1,5 +1,4 @@
 # Hello, I'm Soomin (she/her)!
-###### (I also go by Suji)
 [Inbox](https://github.com/nimoooos/nimoooos/discussions)
 
 ## Things I've done:
@@ -7,13 +6,12 @@
   * [NPC Statblock Exporter](https://github.com/massif-press/compcon/blob/master/CHANGELOG.md#features-1)
   * [NPC Printable Sheet](https://github.com/massif-press/compcon/blob/master/CHANGELOG.md#features)
   * [Pilot Creation Skill Suggest](https://github.com/massif-press/compcon/blob/master/CHANGELOG.md#features)
+* [Software Development Fundamentals](https://www.linkedin.com/learning/paths/software-development-fundamentals)
 * CompTIA Security+
 
 ## I'm currently studying:
-* [Software Development Fundamentals](https://www.linkedin.com/learning/paths/software-development-fundamentals)
-* Full stack development
-  * Backend: Postgres, MongoDB, Express, Node.js
-  * Frontend: Vue, React, HTML, CSS, Bootstrap, jQuery
+* Microsoft Software and Systems Academy - Cloud Application Development
+* C# .NET
 
 ## Also, as a hobby:
 * Study game development
