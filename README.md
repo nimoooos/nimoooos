@@ -10,7 +10,7 @@
 * CompTIA Security+
 
 ## I'm currently studying:
-* Microsoft Software and Systems Academy - Cloud Application Development [MSSA Assignments Repositories](https://github.com/Soomin-Song-PCAD17)
+* Microsoft Software and Systems Academy - Cloud Application Development [MSSA Assignments Repositories](https://github.com/Soomin-Song-MSSA-PCAD17)
 * C# .NET
 
 ## Also, as a hobby:
