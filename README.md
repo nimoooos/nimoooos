@@ -12,6 +12,8 @@
 ## I'm currently studying:
 * Microsoft Software and Systems Academy - Cloud Application Development [MSSA Assignments Repositories](https://github.com/Soomin-Song-MSSA-PCAD17)
 * C# .NET
+* MAUI
+* AZ-900
 
 ## Also, as a hobby:
 * Study game development
