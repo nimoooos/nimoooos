@@ -1,4 +1,3 @@
-# Hello, I'm Soomin (she/her)!
 [Inbox](https://github.com/nimoooos/nimoooos/discussions)
 
 ## Things I've done:
